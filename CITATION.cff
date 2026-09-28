@@ -1,0 +1,17 @@
+# Citation metadata for the RC20 source release.
+# The maintainer confirmed these three citation authors and MIT copyright holders.
+# Add date-released on the actual release date; add a DOI only after it is issued.
+cff-version: 1.2.0
+message: "If you use Omni-iEEG Planner, please cite it as below."
+title: "Omni-iEEG Planner"
+version: "1.0-RC20"
+license: MIT
+repository-code: "https://github.com/yutanoue0712-bit/Omni_iEEG_Planner"
+authors:
+  - family-names: Tanoue
+    given-names: Yuta
+  - family-names: Izumi
+    given-names: Masaki
+  - family-names: Nariai
+    given-names: Hiroki
+    orcid: "https://orcid.org/0000-0002-8318-2924"

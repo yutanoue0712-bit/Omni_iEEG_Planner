@@ -1,0 +1,2 @@
+# Separate environment: ANTsPy 0.6.2 requires older NumPy/SciPy than the GUI.
+antspyx==0.6.2

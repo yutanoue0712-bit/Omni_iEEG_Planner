@@ -1,0 +1,12 @@
+numpy>=2.0,<3
+scipy>=1.14,<2
+nibabel>=5.3,<6
+matplotlib>=3.9,<4
+PySide6-Essentials>=6.8,<7
+vtk>=9.3,<10
+SimpleITK>=2.4,<3
+openpyxl>=3.1.5,<4
+imageio-ffmpeg>=0.6,<0.7
+dipy>=1.12,<2
+pydicom>=3,<4
+dcm2niix>=1.0.20250506,<2
