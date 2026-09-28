@@ -1,0 +1,21 @@
+# Patient data and local case outputs are excluded from future source control.
+# These rules do not anonymize data or control OS/cloud backup settings.
+/sample_images/
+/local_data/
+/cases/
+/patients/
+/exports/
+/private_reports/
+/release_preparation/
+
+# Python environments and generated files.
+/.venv/
+/.venv-ants/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
